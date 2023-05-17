@@ -1,0 +1,112 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.h4{
+    letter-spacing: 2px;
+    color: whitesmoke;
+    font-weight: 900;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+.c1{
+    letter-spacing: 2px;
+    color: orange;
+    font-weight: 900;
+    font-size: medium;
+   position: absolute;
+   left: 400px; top: 25px;
+    
+}
+.c2{
+    color: whitesmoke;
+    letter-spacing: 2px;
+    font-weight: 900;
+    font-size: medium;
+    position: absolute;
+    left: 470px; top: 25px;
+}
+.c3{
+    color: whitesmoke;
+    letter-spacing: 2px;
+    font-weight: 900;
+    font-size: medium;
+    position: absolute;
+    left: 540px; top: 25px;
+}
+.c4{
+    color: whitesmoke;
+    letter-spacing: 2px;
+    font-weight: 900;
+    font-size: medium;
+    position: absolute;
+    left: 650px; top: 25px;
+}
+.c5{
+    color: whitesmoke;
+    letter-spacing: 2px;
+    font-weight: 900;
+    font-size: medium;
+    position: absolute;
+    left: 780px; top: 25px;
+}
+.btn{
+    width: 120px;
+    height: 30px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: whitesmoke;
+    background-color: rgb(234, 86, 58);
+    position: absolute;
+    left: 890px; top: 48px;
+}
+.btn:hover{
+    color: black;
+    border-radius: 10px;
+}
+.c2:hover,.c3:hover,.c4:hover,.c5:hover{
+    color: orange;
+    
+}
+.top{
+    width: 800px;
+    height: 60px;   
+}
+span{
+color: rgb(234, 86, 58);
+}
+/******   BOTTOM   *******/
+p{
+    color: whitesmoke;
+    font-weight: 700;
+    letter-spacing: 3px;
+    position: absolute;
+    left: 300px; top: 180px;
+}
+.gym{
+    color: whitesmoke;
+    letter-spacing: 4px;
+    position: absolute;
+    left: 270px; top: 230px;
+}
+.btn1{
+    width: 220px;
+    height: 50px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: whitesmoke;
+    background-color: rgb(234, 86, 58);
+    margin-left: 340px;
+    margin-top: 250px;
+    border-radius: 10px;
+}
+.btn1:hover{
+    color: black;
+    letter-spacing: 3px;
+    border-radius: 0px;
+   
+}
